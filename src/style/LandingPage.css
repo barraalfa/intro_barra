@@ -1,0 +1,160 @@
+* {
+    font-size: 14px;
+    line-height: 1.428;
+   
+ }
+
+.myBG {
+    height: 300vh;
+    background: rgb(5, 5, 5);
+}
+
+.info{
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+
+.Biodata, .Experience, .Education, .Volunteer{
+    background: rgb(27, 27, 27);
+    margin-left: 0px;
+    border-radius: 10px;
+}
+
+.EditProfile{
+    background: rgb(27, 27, 27);
+    margin-left: -100px;
+    border-radius: 10px;
+    margin-top: -753px;
+}
+
+.Ads{
+    margin-left: -100px;
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+
+.PepView{
+    background:  rgb(27, 27, 27);
+    position:absolute;
+    margin-left: -100px;
+    border-radius: 10px;
+    margin-top: 60px;
+}
+
+
+
+.header{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.profpic{
+    position: relative;
+    top: -6rem;
+    right: -2rem;
+}
+
+.namague{
+    position:relative;
+    top:-5rem;
+    margin-left: 20px;
+}
+
+.tagline{
+    font-family: 'Segoe UI';
+    position: relative;
+    top:-5rem;
+    margin-left:20px;
+    font-size: 16px;
+    font-weight:400;
+}
+.location{
+    position: relative;
+    margin-left:20px;
+    top: -5.5rem;
+}
+
+.ContactPerson{
+    position: relative;
+    margin-left:20px;
+    top: -5.5rem;
+}
+
+.exptxt, .edtxt, .voltxt{
+    position: relative;
+    top: 1rem;
+    right: -1.5rem;
+}
+
+.internparagon, .itbtxt, .smantitxt{
+    font-family: 'Segoe UI';
+    position: relative;
+    top: -1rem;
+    right: -6.5rem;
+}
+.orangtxt{
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    position: relative;
+    top: -0.2rem;
+    right: -6.5rem;
+}
+.job{
+    position: relative;
+    top: -0.6rem;
+    right: -6.5rem;
+    font-size: 12px;
+}
+.RightSide{
+    margin-right: 120px;
+}
+.orang{
+    margin-bottom: 0px;
+}
+
+
+.internparagon-sm,.itbtxt-sm{
+    font-family: 'Segoe UI';
+    position: relative;
+    top: -1.5rem;
+    right: -6.5rem;
+    font-weight:400;
+}
+.hmedetil-sm{
+    font-family: 'Segoe UI';
+    position: relative;
+    top: -3.5rem;
+    right: -6.5rem;
+    font-weight:400;
+}
+
+
+.timeintern, .timeitb{
+    position: relative;
+    top: -2.5rem;
+    right: -6.5rem;
+}
+.timesmanti{
+    position: relative;
+    top: -1.3rem;
+    right: -6.5rem;
+}
+
+.paragonimg, .hmeimg{
+    position: relative;
+    top: 3rem;
+    right:-1.8rem;
+}
+
+.smantibo{
+    position: relative;
+    margin-top: -65px;
+}
+
+.MBC , .oskm, .riset, .Wispril{
+    position: relative;
+    margin-top: -65px;
+}
